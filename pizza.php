@@ -25,7 +25,7 @@
       #exit(0);
  }
  echo "<br>";
- echo "Autor: ircac"."<br>";
+ echo "Autor: ircacu"."<br>";
      ?>
      </body>
  </html>
